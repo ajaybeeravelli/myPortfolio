@@ -119,7 +119,7 @@ nav img {
 .about-container .container h2 {
     font-size: 3rem;
     font-weight: 800;
-    margin-block: 50px;
+    margin-block: 50px 50px 50px 30 px;
 }
 
 .about-info {
