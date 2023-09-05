@@ -137,7 +137,10 @@ nav img {
 }
 
 .edu-info {
+   
+    top: 3.5 rem;
     padding: 50px 0;
+    position:relative;
     justify-content: space-around;
 }
 
