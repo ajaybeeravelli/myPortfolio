@@ -105,6 +105,8 @@ nav img {
 }
 
 .education-info {
+    position: relative;
+    top: 4rem;
     justify-content: space-between;
     flex-wrap: wrap;
 }
